@@ -28,8 +28,6 @@ Este repositório contém a documentação e soluções propostas para o desafio
 
 ### 🖼️ Diagrama de Solução Proposta
 
-> (inserir aqui a imagem do desenho de solução)
-
 ![Diagrama de Solução](Desafio_Itau.drawio.png)
 
 ---
